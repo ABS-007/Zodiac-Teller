@@ -1,16 +1,8 @@
-# zodiac_teller
+#Zodiac_Teller
 
-A new Flutter project.
+![Screenshot_2023-02-04-12-59-05-55_a969f306b3a524bdb26efd7728e4f7a2](https://user-images.githubusercontent.com/93399136/216756177-bef6509b-e093-4f15-a656-9ce6cf09e523.jpg)
 
-## Getting Started
+![Screenshot_2023-02-04-12-59-08-11_a969f306b3a524bdb26efd7728e4f7a2](https://user-images.githubusercontent.com/93399136/216756181-fa178162-839d-4133-b38b-89df176358d8.jpg)
 
-This project is a starting point for a Flutter application.
+![Screenshot_2023-02-04-12-59-10-93_a969f306b3a524bdb26efd7728e4f7a2](https://user-images.githubusercontent.com/93399136/216756184-0c9a999a-6a12-4b1d-8dbf-a07a83bed5e2.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
